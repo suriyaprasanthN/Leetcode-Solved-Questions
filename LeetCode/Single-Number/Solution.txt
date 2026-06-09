@@ -1,0 +1,7 @@
+1class Solution:
+2    def singleNumber(self, nums: List[int]) -> int:
+3        res=0
+4        for n in nums:
+5            res =n ^ res
+6        return res
+7        
