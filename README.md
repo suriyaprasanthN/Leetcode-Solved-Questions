@@ -10,6 +10,7 @@
 | [0169-majority-element](https://github.com/suriyaprasanthN/Leetcode-Solved-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suriyaprasanthN/Leetcode-Solved-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/suriyaprasanthN/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/suriyaprasanthN/Leetcode-Solved-Questions/tree/master/0485-max-consecutive-ones) |
 ## Bit Manipulation
 |  |
 | ------- |
