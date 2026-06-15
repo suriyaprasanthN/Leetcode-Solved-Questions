@@ -13,6 +13,7 @@
 | [0283-move-zeroes](https://github.com/suriyaprasanthN/Leetcode-Solved-Questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/suriyaprasanthN/Leetcode-Solved-Questions/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/suriyaprasanthN/Leetcode-Solved-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/suriyaprasanthN/Leetcode-Solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -48,8 +49,13 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suriyaprasanthN/Leetcode-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/suriyaprasanthN/Leetcode-Solved-Questions/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/suriyaprasanthN/Leetcode-Solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/suriyaprasanthN/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/suriyaprasanthN/Leetcode-Solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
