@@ -15,6 +15,7 @@
 | [0283-move-zeroes](https://github.com/suriyaprasanthN/Leetcode-Solved-Questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/suriyaprasanthN/Leetcode-Solved-Questions/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/suriyaprasanthN/Leetcode-Solved-Questions/tree/master/0724-find-pivot-index) |
+| [0908-smallest-range-i](https://github.com/suriyaprasanthN/Leetcode-Solved-Questions/tree/master/0908-smallest-range-i) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/suriyaprasanthN/Leetcode-Solved-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/suriyaprasanthN/Leetcode-Solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -47,6 +48,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/suriyaprasanthN/Leetcode-Solved-Questions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/suriyaprasanthN/Leetcode-Solved-Questions/tree/master/0268-missing-number) |
+| [0908-smallest-range-i](https://github.com/suriyaprasanthN/Leetcode-Solved-Questions/tree/master/0908-smallest-range-i) |
 ## Two Pointers
 |  |
 | ------- |
